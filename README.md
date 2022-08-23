@@ -1,6 +1,6 @@
 # flutter_byu
 
-A new Flutter project.
+Klon Aplikasi by.U 
 
 ## Getting Started
 
